@@ -3,7 +3,7 @@
 
 ### Insttalation And Usage
 
-```bash
+```terminal
 git clone https://github.com/lukkshh/Morse-Code-Generator.git
 ```
 
@@ -11,7 +11,7 @@ git clone https://github.com/lukkshh/Morse-Code-Generator.git
 cd Morse-Code-Generator
 ```
 
-```bash
+```console
 python main.py
 ```
 
