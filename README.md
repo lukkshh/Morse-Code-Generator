@@ -3,11 +3,11 @@
 
 ### Insttalation And Usage
 
-```terminal
+```console
 git clone https://github.com/lukkshh/Morse-Code-Generator.git
 ```
 
-```bash
+```console
 cd Morse-Code-Generator
 ```
 
